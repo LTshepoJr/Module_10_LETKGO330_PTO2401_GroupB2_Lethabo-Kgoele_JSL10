@@ -1,6 +1,7 @@
 # [JSL10] Submission: Escaping Vanilla JS: Abstraction Challenge
 
 You will:
+
 1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_10_StudentNo_Classcode_Group_Name-Surname_JSL10
 2. Code your solution.
 3. Commit changes to your GitHub repository.
@@ -40,7 +41,3 @@ The Escape Vanilla JS Challenge is an interactive web-based project focusing on 
 1. We will review your GitHub repository to ensure that it contains the updated code files.
 2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
 3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-
-
-
