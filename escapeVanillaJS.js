@@ -29,9 +29,10 @@ document.addEventListener("DOMContentLoaded", () => {
   document.getElementById("solveRoom3").addEventListener("click", async () => {
     const directionsJSON = await fetch("directions.json");
     const directions = await directionsJSON.json();
-    navigateLabyrinth(directions);
+    navigateLabyrinth(directions).then((message) => {
+      document.getElementById("room3Result").textContent = message;
+    });
     // 🪲 Bug: Incorrect method
-    document.getElementById("room3Result").innerHTML = message;
   });
 });
 
